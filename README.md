@@ -19,6 +19,15 @@ This years robot's unique features include:
 - Passive arms that leave robot hanging on bar
 - Active climber arms that can be actuated forward and back to traverse to highest rung
 
+## Goals of the year
+|Status|Goal|Additional Description|
+|------|----|----------------------|
+|Yes|Swerve Drive|Working swerve drive code using a derivative of Team 364's BaseFalconSwerve|
+|Yes|Separate Flywheel State Space Controllers|Use separate state spaces controllers to run a front and back flywheel and different speeds for variable shooting.|
+|Yes|AdvantageKit|Move onto the AdvantageKit logging framework and use AdvantageScope to view the data.|
+|No|PathPlanner|Implement PathPlanner and a working auton using PathPlanner|
+|No|Pose Estimation|Implement pose estimation on the swerve drive using the updated SwerveDrivePoseEstimator from the 2023 beta.|
+
 ## Roster
 
 Students: Adan Silva (Lead), Jonathan Shuman, Grady Sargeant
