@@ -1,8 +1,6 @@
-# FRC Team 3512's 2022 Robot
+# FRC Team 3512's 2022 Offseason Robot
 
-Source code for the 2022 comp robot: Daedalus
-
-Source code also for the 2022 practice robot: Xiphos
+Source code also for the 2022 offseason robot: Xiphos (but with swerve)
 
 ## Game
 
@@ -12,7 +10,7 @@ The game for 2022 is called Rapid React, where teams are tasked with shooting ca
 
 This years robot's unique features include:
 
-- West Coast Drive
+- Swerve drive (MK4 L4 modules using CTRE CANCoders and NEO motors)
 - Fourbar linkage intake/outtake
 - Funnel
 - Indexing conveyor
